@@ -16,4 +16,4 @@ Cria os models no <code>schema.prisma</code> a partir de um banco existente:
 
 <code>npx prisma introspect</code>
 
-Referencia: [prisma.io](https://www.prisma.io/docs/)
+Ref: [prisma.io](https://www.prisma.io/docs/)
