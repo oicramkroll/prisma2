@@ -15,3 +15,5 @@ Executa o prisma studio para visualizar os dodos do banco:
 Cria os models no <code>schema.prisma</code> a partir de um banco existente:
 
 <code>npx prisma introspect</code>
+
+Referencia: [prisma.io](https://www.prisma.io/docs/)
