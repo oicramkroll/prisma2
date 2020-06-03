@@ -2,6 +2,8 @@
 O objetivo é conctar em um banco já existente, criar os modelos e fazer um gerenciamento rapido. 
 Muito util para fabricas de software, que se tem uma esteira de procução, normalmente se iniciando pelos requisitos e criação do banco de dados.
 
+Neste exemplo é utilizad uma tabela de usuários, para teste no prisma2
+
 # Comandos principais do prisma
 
 Cria as migragions a partir do <code>schema.prisma</code>:
